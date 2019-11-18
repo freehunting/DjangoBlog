@@ -122,4 +122,6 @@ CREATE DATABASE `djangoblog` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8
  如果本项目帮助到了你，请在[这里](https://github.com/liangliangyy/DjangoBlog/issues/214)留下你的网址，让更多的人看到。
 您的回复将会是我继续更新维护下去的动力。 
 
+change by zhuping  20191118
+
 🙏🙏🙏
